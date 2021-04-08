@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 [![Twitter Badge](https://img.shields.io/badge/-jedipinguim-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/jedipinguim/)](https://twitter.com/jedipinguim/)
-[![Facebook Badge](https://img.shields.io/badge/-moshfiqrony-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/in/moshfiqrony/)](https://www.facebook.com/in/moshfiqrony/)
-[![Linkedin Badge](https://img.shields.io/badge/-moshfiqrony-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/moshfiqrony/)](https://www.linkedin.com/in/moshfiqrony/)
+[![Facebook Badge](https://img.shields.io/badge/-viniciustiago.tavares-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/in/viniciustiago.tavares/)](https://www.facebook.com/in/viniciustiago.tavares)
+[![Linkedin Badge](https://img.shields.io/badge/-vinicius.tiago.tavares-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-tiago-tavares/)](https://www.linkedin.com/in/vinicius-tiago-tavares/)
 [![Email Badge](https://img.shields.io/badge/-vtavares@outlook.com-c14438?style=plastic&logo=Mail.Ru&logoColor=white&link=mailto:vtavares@outlook.com)](mailto:vtavares@outlook.com)
-[![Instagram Badge](https://img.shields.io/badge/-moshfiqrony-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/moshfiqrony/)](https://instagram.com/moshfiqrony)
+[![Instagram Badge](https://img.shields.io/badge/-vtavares84-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/vtavares84/)](https://instagram.com/vtavares84)
 
 - 🏢 I’m currently working at **UHG Brasil**
 - 🚀 I use daily:
