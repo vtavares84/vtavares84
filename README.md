@@ -10,7 +10,8 @@
 - 🚀 I use daily:
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
   ![C#](https://img.shields.io/badge/-C%20Sharp-239120?style=plastic&logo=C-Sharp)
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=plastic&logo=python)
   ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
   ![MS SQL](https://img.shields.io/badge/-MS%20SQL-CC2927?style=plastic&logo=Microsoft-SQL-Server)
-  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white)
+  ![Arch](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=plastic&logo=archlinux&logoColor=white)
